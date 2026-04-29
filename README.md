@@ -1,2 +1,2 @@
-##Numpy
-##Pandas
+Numpy 
+Pandas
