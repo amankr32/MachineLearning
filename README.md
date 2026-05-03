@@ -1,3 +1,3 @@
 Numpy 
 Pandas
-Machine learning Algorithms 
+Machine learning Algo
